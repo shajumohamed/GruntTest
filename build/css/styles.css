@@ -1,0 +1,16 @@
+/* main.css*/
+
+body{
+	width:100px;
+}
+header{
+	width:inherit;
+}
+/*theme.css*/
+
+body{
+	width:200px;
+}
+footer{
+	width:fill-parent;
+}
