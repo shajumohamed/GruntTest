@@ -1,0 +1,1 @@
+This is a test application to learn the capabilities of grunt build tool
